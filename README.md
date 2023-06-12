@@ -30,10 +30,6 @@ This temperature converter is designed to make temperature conversions a delight
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📞 Contact
 
 For any questions or inquiries, feel free to reach out to me at karnsneha2003@gmail.com.
