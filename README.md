@@ -1,4 +1,4 @@
-# BharatIntern-Task1
+# BharatIntern-Task2
 # 🌡️ Temperature Converter 
 
 A fun and interactive temperature converter application that allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin, all with the help of emojis! 🌡️💪
